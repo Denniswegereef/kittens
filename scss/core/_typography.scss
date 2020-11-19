@@ -1,0 +1,52 @@
+.paragraph {
+  @include font-futura-medium();
+
+  margin: 0;
+  padding: 0;
+
+  color: $color-white;
+
+  font-size: rem(18px);
+  line-height: rem(38px);
+  letter-spacing: 1.29;
+  font-weight: bold;
+}
+
+.small-heading {
+  @include font-futura-medium();
+
+  margin: 0;
+  padding: 0;
+
+  color: $color-white;
+
+  font-size: rem(13px);
+  line-height: rem(13px);
+  letter-spacing: 2.5;
+
+  text-transform: uppercase;
+}
+
+// .heading {
+//   @include font-neue-haas-bold();
+
+//   margin: 0;
+//   padding: 0;
+
+//   font-size: rem(45px);
+//   line-height: 0.8;
+
+//   color: $color-white;
+// }
+
+// .subheading {
+//   @include font-neue-haas-regular();
+
+//   margin: 0;
+//   padding: 0;
+
+//   font-size: rem(35px);
+//   line-height: 0.8;
+
+//   color: $color-white;
+// }

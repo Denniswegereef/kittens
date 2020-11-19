@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="796px" height="326px" viewBox="0 0 796 326" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TOMMY FLAG</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.4">
+        <g id="LAUNCH-" transform="translate(-322.000000, -2294.000000)">
+            <g id="TOMMY-FLAG" transform="translate(322.000000, 2294.000000)">
+                <rect id="Rectangle-Copy-2" stroke="#FF5334" stroke-width="4" x="121" y="59" width="565" height="208"></rect>
+                <rect id="Rectangle-Copy-3" stroke="#FF5334" stroke-width="4" transform="translate(403.500000, 30.500000) scale(1, -1) translate(-403.500000, -30.500000) " x="121" y="2" width="565" height="57"></rect>
+                <line x1="403.511292" y1="262.99429" x2="402" y2="63" id="Line" stroke="#FF5334" stroke-width="4" stroke-linecap="square"></line>
+                <rect id="Rectangle-Copy-4" stroke="#FF5334" stroke-width="4" transform="translate(403.500000, 295.500000) scale(1, -1) translate(-403.500000, -295.500000) " x="121" y="267" width="565" height="57"></rect>
+                <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="796" height="326"></rect>
+                <text id="LEWIS" font-family="FuturaLTPro-Medium, Futura LT Pro" font-size="17" font-weight="400" letter-spacing="109.285714" fill="#ED6653">
+                    <tspan x="156.318714" y="39">LEWIS</tspan>
+                </text>
+                <text id="TOMMY" font-family="FuturaLTPro-Medium, Futura LT Pro" font-size="17" font-weight="400" letter-spacing="109.285714" fill="#ED6653">
+                    <tspan x="149.289214" y="304">TOMMY</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,51 @@
+{
+  "hero": {
+    "content": "Celebrating the notion of “style for all” and the power of loyalty. H.E.R. has infused her personal street-style twist to the signature TommyXLewis DNA with utility details and pops of neon."
+  },
+  "products": {
+    "items": [
+      {
+        "title": "Lewis Hamilton x H.E.R. Harness Bag",
+        "path": "#",
+        "image": {
+          "path": "C01_10_AW0AW09358BDS_FL-AS-F1.png",
+          "alt": "Lewis Hamilton x H.E.R. Harness Bag product photo",
+          "width": 245
+        }
+      },
+      {
+        "title": "Lewis Hamilton x H.E.R. Oversized T-Shirt",
+        "path": "#",
+        "image": {
+          "path": "C01_01_MW0MW15925BDS_FL-ST-F1.png",
+          "alt": "Lewis Hamilton x H.E.R. Oversized T-Shirt product photo",
+          "width": 237
+        }
+      },
+      {
+        "title": "Lewis Hamilton x H.E.R. Unity Bumbag",
+        "path": "#",
+        "image": {
+          "path": "C01_10_AW0AW09320BDS_FL-AS-F1.png",
+          "alt": "Lewis Hamilton x H.E.R. Unity Bumbag product photo",
+          "width": 408
+        }
+      },
+      {
+        "title": "Lewis Hamilton x H.E.R. Mesh Dress",
+        "path": "#",
+        "image": {
+          "path": "C01_01_MW0MW15931BDS_FL-ST-F1-2.png",
+          "alt": "Lewis Hamilton x H.E.R. Mesh Dress product photo",
+          "width": 214
+        }
+      }
+    ],
+    "button": {
+      "text": "Shop now"
+    }
+  },
+  "footer": {
+    "caption": "AT THE END OF THE DAY"
+  }
+}

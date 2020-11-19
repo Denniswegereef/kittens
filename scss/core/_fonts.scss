@@ -1,0 +1,32 @@
+@font-face {
+  font-family: $font-family-futura-medium;
+  src: url('~assets/fonts/FuturaLTPro-Medium.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@mixin font-futura-medium() {
+  @include text-rendering();
+
+  font-family: $font-family-futura-medium, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+// --
+
+// @font-face {
+//   font-family: $font-family-neue-haas;
+//   src: url('~assets/fonts/NeueHaasGrotesk/NeueHaasGroteskMBold.woff2') format('woff2');
+//   font-weight: 600;
+//   font-style: normal;
+// }
+
+
+// @mixin font-neue-haas-regular() {
+//   @include text-rendering();
+
+//   font-family: $font-family-neue-haas, sans-serif;
+//   font-weight: 400;
+//   font-style: normal;
+// }
